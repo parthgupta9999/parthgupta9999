@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @parthgupta9999
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me parthgupta9999@gmail.com
 - LinkedIn - https://www.linkedin.com/in/parth-gupta-7a1685196/
 <!---
