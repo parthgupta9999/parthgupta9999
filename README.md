@@ -15,7 +15,7 @@ At **OSU NOWLAB / ICICLE**, I worked on **AI for digital agriculture**: computer
 
 - **Email:** [haeparth@gmail.com](mailto:haeparth@gmail.com)  
 - **LinkedIn:** [parth-gupta-7a1685196](https://www.linkedin.com/in/parth-gupta-7a1685196)  
-- **Portfolio:** *add your site URL here*  
+- **Portfolio:** https://parth-portfolio-ivory-gamma.vercel.app/ 
 
 ---
 
